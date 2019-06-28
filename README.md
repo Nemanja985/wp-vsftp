@@ -1,1 +1,1 @@
-# wp-vsftp
+# Wordpress installations and vsftpd
